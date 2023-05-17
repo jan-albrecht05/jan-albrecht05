@@ -2,10 +2,10 @@ Hi 👋 My name is Jan
 =========================
 
 * 🌍  I'm based in Kyritz (Germany)
-* 🖥️  See my Website at [janalbrecht.tech](https://janalbrecht.tech)
+* 🖥️  See my Website at [jan-alb.de](https://jan-alb.de)
 * 🧠  I'm learning JS
 * ✉️  You can contact me at [https://instagram.com/jan_albrecht](https://instagram.com/jan_albrecht)
-* 🚀  I'm currently working on a new overlay of [my Website](https://janalbrecht.tech)
+* 🚀  I'm currently working on a new overlay of [my Website](https://jan-alb.de)
 
 <a href="https://www.github.com/jan-albrecht05" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/jan-albrecht05?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
