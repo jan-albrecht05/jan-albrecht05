@@ -2,7 +2,7 @@ Hi 👋 My name is Jan
 =========================
 
 * 🌍  I'm based in Kyritz and Berlin(Germany)
-* 👨‍🎓  I am student at Humbold University of Berlin
+* 👨‍🎓  I am a student at Humbold University of Berlin
 * 🖥️  See my Website at [jan-alb.de](https://jan-alb.de)
 * 🧠  I'm learning JS
 * ✉️  You can contact me at [https://instagram.com/jan_albrecht](https://instagram.com/jan_albrecht)
